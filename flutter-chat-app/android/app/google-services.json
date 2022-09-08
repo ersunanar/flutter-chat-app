@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "399221213276",
+    "project_id": "ersun-anar-it535-hw3",
+    "storage_bucket": "ersun-anar-it535-hw3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399221213276:android:b9c1d763f0ab79babefe99",
+        "android_client_info": {
+          "package_name": "ersun.anar.it535.homework3.ersun_anar_hw3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "399221213276-os86jevasg4rkt8b4rr0gkjsrf71674u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqTFXXbMvK2gR9T1Q5A61lQfjIjtwOZlw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "399221213276-os86jevasg4rkt8b4rr0gkjsrf71674u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
