@@ -1,4 +1,4 @@
-# ersun_anar_hw3
+# flutter-chat-app
 
 A new Flutter project.
 
